@@ -1,7 +1,11 @@
 Prework - ColorMood
+
 Submitted by: Meredith Ma
+
 ColorMood is an iOS app that displays personal information through labels and allows users to change the screen's background color to a random semi-transparent shade with the tap of a button.
+
 Time spent: 4 hours spent in total
+
 Required Features
 The following required functionality is completed:
 
